@@ -1,0 +1,17 @@
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\bin\Debug\net8.0-windows\odev2vs.exe
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\bin\Debug\net8.0-windows\odev2vs.deps.json
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\bin\Debug\net8.0-windows\odev2vs.runtimeconfig.json
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\bin\Debug\net8.0-windows\odev2vs.dll
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\bin\Debug\net8.0-windows\odev2vs.pdb
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\odev2vs.Form1.resources
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\odev2vs.Form2.resources
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\odev2vs.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\odev2vs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\odev2vs.AssemblyInfoInputs.cache
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\odev2vs.AssemblyInfo.cs
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\odev2vs.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\odev2vs.dll
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\refint\odev2vs.dll
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\odev2vs.pdb
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\odev2vs.genruntimeconfig.cache
+C:\Users\Mert\Desktop\YazMimTas_ÖDEV2_MERTTOSUN\odev2vs\odev2vs\obj\Debug\net8.0-windows\ref\odev2vs.dll

@@ -1,0 +1,1 @@
+Global Sıcaklık Standart Sapması: 2,4711670657134186, Global Nem Standart Sapması: 5,4
